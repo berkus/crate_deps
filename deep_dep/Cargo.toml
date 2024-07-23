@@ -1,0 +1,9 @@
+[package]
+name = "deep_dep"
+version = "0.1.0"
+edition = "2021"
+
+[features]
+private_apis = []
+
+[dependencies]

@@ -1,0 +1,8 @@
+[package]
+name = "toplevel"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+deep_dep = { path = "../deep_dep" }
+dep = { path = "../dep" }
